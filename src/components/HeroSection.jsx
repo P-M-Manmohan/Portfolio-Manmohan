@@ -11,7 +11,7 @@ return <section id="hero" className="relative min-h-screen flex flex-col items-c
                     <span className="text-primary opacity-0 animate-fade-in-delay-1"> Manmohan</span>
                 </h1>
                 <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                    I create web experiences with modern technoloies.
+                    I create web experiences with modern technologies.
                     Specializing in back-end development, I build Back-end APIs
                     and services.
                 </p>

@@ -11,14 +11,14 @@ export const AboutSection = () => {
                     <h3 className="text-2xl font-semibold"> Passionate Backend Developer</h3>
 
                     <p className="text-muted-foreground">
-                        I specialize is API development and and Database Management to
+                        I specialize in API development and and Database Management to
                         create efficient systems using modern technologies.
                     </p>
 
                     <p className="text-muted-foreground">
-                        I am passionate about creating efficient solutions to
+                        I am passionate about creating reliable solutions to
                         solve complex problems, I'm always on the journey to
-                        learn more about upcoming technology and changes in the
+                        learn more about upcoming technologies and changes in the
                         ever evolving world of tech.
                     </p>
 

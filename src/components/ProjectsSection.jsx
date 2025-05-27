@@ -20,7 +20,7 @@ const projects = [
     {
         id:3,
         title: "Password Manager",
-        description: "Basic CLI based password manager Made with rust.",
+        description: "Basic CLI based password manager made with rust.",
         image: "/projects/Password_manager.jpg",
         tags: ["Rust", "Ecryption"],
         githubUrl: "https://github.com/P-M-Manmohan/Password-Manager",
