@@ -43,7 +43,7 @@ export const AboutSection = () => {
                             </div>
 
                             <div className="text-left">
-                                <h4 className="font-semibold text-lg"> API development </h4>
+                                <h4 className="font-semibold text-lg"> API Development </h4>
                                 <p className="text-muted-foreground">
                                     Create efficient API and servers with modern technologies.
                                 </p>
@@ -58,9 +58,9 @@ export const AboutSection = () => {
                             </div>
 
                             <div className="text-left">
-                                <h4 className="font-semibold text-lg"> API development </h4>
+                                <h4 className="font-semibold text-lg"> API Development </h4>
                                 <p className="text-muted-foreground">
-                                    Create and Maintain relational and Non-relational Databases.
+                                    Create and maintain relational and ron-relational databases.
                                 </p>
                             </div>
                         </div>
