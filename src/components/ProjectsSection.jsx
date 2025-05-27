@@ -4,7 +4,7 @@ const projects = [
     {
         id:1,
         title: "Blog Site",
-        description: "Basic Blog site using JavaScript and EJS with postgres database.",
+        description: "Basic blog site using JavaScript and EJS with postgres database.",
         image: "/projects/Blog_site.png",
         tags: ["HTML", "JavaScript", "Express", "Node.js", "PostgreSql", "EJS", "CSS"],
         githubUrl: "https://github.com/P-M-Manmohan/Blog-site",
@@ -12,7 +12,7 @@ const projects = [
     {
         id:2,
         title: "Point of Sale System",
-        description: "Basic Point of sale system Made with React, Tailwind CSS and Rust Backend.",
+        description: "Basic Point Of Sale system Made with React, Tailwind CSS and Rust Backend.",
         image: "/projects/POS.png",
         tags: ["React", "Tailwind", "Rust", "MongoDB", "PostgreSql"],
         githubUrl: "https://github.com/P-M-Manmohan/POS",
@@ -36,7 +36,7 @@ export const ProjectsSection = () => {
 
             <p className="text-center text-muted-foreground mb-12 max-w-12xl mx-auto">
                 Here are some of my recent projects. Each project was
-                carefully crafted with attention to detail, performance,
+                carefully crafted with attention to detail, performance
                 and user experience.
             </p>
 
