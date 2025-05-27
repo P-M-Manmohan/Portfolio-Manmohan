@@ -17,7 +17,7 @@ export const AboutSection = () => {
 
                     <p className="text-muted-foreground">
                         I am passionate about creating reliable solutions to
-                        solve complex problems, I'm always on the journey to
+                        solve complex problems and I'm always on the journey to
                         learn more about upcoming technologies and changes in the
                         ever evolving world of tech.
                     </p>
