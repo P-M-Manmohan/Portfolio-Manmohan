@@ -45,7 +45,7 @@ export const AboutSection = () => {
                             <div className="text-left">
                                 <h4 className="font-semibold text-lg"> API Development </h4>
                                 <p className="text-muted-foreground">
-                                    Create efficient API and servers with modern technologies.
+                                    Create efficient APIs and servers with modern technologies.
                                 </p>
                             </div>
 
@@ -60,7 +60,7 @@ export const AboutSection = () => {
                             <div className="text-left">
                                 <h4 className="font-semibold text-lg"> API Development </h4>
                                 <p className="text-muted-foreground">
-                                    Create and maintain relational and ron-relational databases.
+                                    Create and maintain relational and non-relational databases.
                                 </p>
                             </div>
                         </div>
