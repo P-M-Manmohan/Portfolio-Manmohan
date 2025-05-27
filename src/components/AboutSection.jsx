@@ -11,7 +11,7 @@ export const AboutSection = () => {
                     <h3 className="text-2xl font-semibold"> Passionate Backend Developer</h3>
 
                     <p className="text-muted-foreground">
-                        I specialize in API development and and Database Management to
+                        I specialize in API development and Database Management to
                         create efficient systems using modern technologies.
                     </p>
 

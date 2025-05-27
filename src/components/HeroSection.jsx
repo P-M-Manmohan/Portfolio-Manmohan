@@ -12,7 +12,7 @@ return <section id="hero" className="relative min-h-screen flex flex-col items-c
                 </h1>
                 <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
                     I create web experiences with modern technologies.
-                    Specializing in backend development, I build Back-end APIs
+                    Specializing in backend development, I build Backend APIs
                     and services.
                 </p>
 
