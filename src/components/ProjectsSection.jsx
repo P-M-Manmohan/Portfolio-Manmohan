@@ -25,6 +25,14 @@ const projects = [
         tags: ["Rust", "Ecryption"],
         githubUrl: "https://github.com/P-M-Manmohan/Password-Manager",
     },
+    {
+        id:4,
+        title: "Nutrition tracker",
+        description: "trakcs nutrition intake from pictures of meals throughout the day",
+        image: "/projects/Nutri-Scan.jpeg",
+        tags:["JavaScript", "AI", "React"],
+        githubUrl: "https://github.com/HCI-Team4/AI-Nutrition-Tracker",
+    }
 ]
 
 export const ProjectsSection = () => {
