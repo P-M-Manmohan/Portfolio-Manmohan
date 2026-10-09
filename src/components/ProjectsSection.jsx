@@ -32,6 +32,14 @@ const projects = [
         image: "/projects/Nutri-Scan.jpeg",
         tags:["JavaScript", "AI", "React"],
         githubUrl: "https://github.com/HCI-Team4/AI-Nutrition-Tracker",
+    },
+    {
+        id:5,
+        title: "RAG based Chatbot",
+        description: "chatbot that answers only based on the pdfs or documents uploaded",
+        image: "",
+        tags: ["Python", "Streamlit", "LLM"],
+        githubUrl: "https://github.com/P-M-Manmohan/RAG-chatbot.git",
     }
 ]
 
