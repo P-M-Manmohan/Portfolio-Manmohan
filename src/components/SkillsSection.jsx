@@ -14,9 +14,11 @@ const skills = [
     { name: "PosgresSQL", level:80, category:"backend"},
     { name: "MongoDB", level:60, category:"backend"},
     { name: "Rust", level:75, category:"backend"},
+    { name: "Python", level:60, category:"backend"},
 
     //Tools
     { name: "Git/Github", level:90, category:"tools"},
+    { name: "Linux", level:50, category:"tools"},
     { name: "Docker", level:60, category:"tools"},
     { name: "Neovim", level:80, category:"tools"},
     { name: "VS Code", level:95, category:"tools"},    
